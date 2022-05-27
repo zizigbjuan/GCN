@@ -7,7 +7,7 @@ SHREC2015      https://www.cs.cf.ac.uk/shaperetrieval/shrec15/SHREC15.zip
 
 SHREC2016      https://www.dais.unive.it/~shrec2016/dataset.php
 
-ModelNet       http://modelnet.cs.princeton.edu/
+ModelNet         http://modelnet.cs.princeton.edu/
 
 
 Code Credit Clarification：
